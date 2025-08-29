@@ -1,4 +1,4 @@
-1. Propósito
+# 1. Propósito
 
 El proyecto busca digitalizar y optimizar la gestión de reclamos y reparaciones de baches en la ciudad, garantizando:
 
@@ -10,7 +10,7 @@ Seguridad vial para conductores y peatones.
 
 Participación activa de los ciudadanos en la detección y reporte de baches.
 
-2. Fondo / Contexto
+# 2. Fondo / Contexto
 
 Bahía Blanca enfrenta más de 300 reclamos anuales por baches (La Nueva, 2023).
 
@@ -20,7 +20,7 @@ Actualmente, el sistema de reclamos es manual y disperso, generando duplicación
 
 El proyecto surge como respuesta a la necesidad de modernizar la gestión pública, mejorar la infraestructura vial y atender reclamos de manera ágil.
 
-3. Alcance
+# 3. Alcance
 
 El sistema abarcará:
 ✅ Registro de baches por ciudadanos.
@@ -34,7 +34,7 @@ No cubre:
 ❌ Reparación física (solo gestión).
 ❌ Mantenimiento de calles fuera del ejido urbano.
 
-4. Definiciones (glosario clave)
+# 4. Definiciones (glosario clave)
 
 Bache: Rotura en el pavimento con riesgo vial.
 
@@ -46,7 +46,7 @@ Requerimiento funcional: Acción que el sistema debe realizar (ej.: registrar ba
 
 Requerimiento no funcional: Característica de calidad del sistema (ej.: seguridad de datos).
 
-5. Funcionalidades del sistema
+# 5. Funcionalidades del sistema
 
 Ciudadano:
 
@@ -68,7 +68,7 @@ Monitorear estadísticas globales.
 
 Priorizar recursos según urgencia.
 
-6. Requerimientos Funcionales
+# 6. Requerimientos Funcionales
 
 Registro de bache con ID automático.
 
@@ -80,7 +80,7 @@ Generar informes en CSV/Excel.
 
 Notificaciones automáticas al ciudadano (correo o app).
 
-7. Requerimientos No Funcionales
+# 7. Requerimientos No Funcionales
 
 Disponibilidad: Funcionar offline (KoboToolbox).
 
@@ -92,7 +92,7 @@ Interoperabilidad: Integración con sistemas municipales.
 
 Compatibilidad: Navegadores (Chrome/Firefox) y dispositivos móviles.
 
-8. Repercusiones a Futuro
+# 8. Repercusiones a Futuro
 
 Positivas
 
@@ -116,7 +116,7 @@ Necesidad de capacitación continua del personal.
 
 Riesgos de privacidad en manejo de datos sensibles.
 
-9. Valor Agregado (sugerencias extra)
+# 9. Valor Agregado (sugerencias extra)
 
 Implementar IA predictiva: priorizar baches críticos antes de que generen accidentes.
 
